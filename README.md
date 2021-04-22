@@ -1,2 +1,19 @@
-# webinar-github
-Webinar Github 2021
+# GitHub example project
+
+Installation:
+
+```shell
+npm install
+```
+
+Run:
+
+```shell
+npm run start
+```
+
+Test:
+
+```shell
+npm test
+```
